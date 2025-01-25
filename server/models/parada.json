@@ -1,0 +1,98 @@
+[
+  {
+    "codLinea": 11,
+    "nombreLinea": "Universidad - Alameda Principal - El Palo (P. Virginia)",
+    "sentido": 1,
+    "nombreParada": "Louis Pasteur",
+    "lon": -4.487105,
+    "lat": 36.715548
+  },
+  {
+    "codLinea": 11,
+    "nombreLinea": "Universidad - Alameda Principal - El Palo (P. Virginia)",
+    "sentido": 1,
+    "nombreParada": "Avenida de Andalucía",
+    "lon": -4.421979,
+    "lat": 36.719972
+  },
+  {
+    "codLinea": 11,
+    "nombreLinea": "Universidad - Alameda Principal - El Palo (P. Virginia)",
+    "sentido": 1,
+    "nombreParada": "Paseo del Parque",
+    "lon": -4.414394,
+    "lat": 36.717174
+  },
+  {
+    "codLinea": 11,
+    "nombreLinea": "Universidad - Alameda Principal - El Palo (P. Virginia)",
+    "sentido": 2,
+    "nombreParada": "Paseo del Parque",
+    "lon": -4.414394,
+    "lat": 36.717174
+  },
+  {
+    "codLinea": 11,
+    "nombreLinea": "Universidad - Alameda Principal - El Palo (P. Virginia)",
+    "sentido": 2,
+    "nombreParada": "Avenida de Andalucía",
+    "lon": -4.421979,
+    "lat": 36.719972
+  },
+  {
+    "codLinea": 11,
+    "nombreLinea": "Universidad - Alameda Principal - El Palo (P. Virginia)",
+    "sentido": 2,
+    "nombreParada": "Louis Pasteur",
+    "lon": -4.487105,
+    "lat": 36.715548
+  },
+  {
+    "codLinea": 3,
+    "nombreLinea": "Puerta Blanca - El Palo",
+    "sentido": 1,
+    "nombreParada": "Puerta Blanca",
+    "lon": -4.448723,
+    "lat": 36.693254
+  },
+  {
+    "codLinea": 3,
+    "nombreLinea": "Puerta Blanca - El Palo",
+    "sentido": 1,
+    "nombreParada": "Vialia",
+    "lon": -4.431743,
+    "lat": 36.711057
+  },
+  {
+    "codLinea": 3,
+    "nombreLinea": "Puerta Blanca - El Palo",
+    "sentido": 1,
+    "nombreParada": "La Malagueta",
+    "lon": -4.409625,
+    "lat": 36.717590
+  },
+  {
+    "codLinea": 3,
+    "nombreLinea": "Puerta Blanca - El Palo",
+    "sentido": 2,
+    "nombreParada": "La Malagueta",
+    "lon": -4.409625,
+    "lat": 36.717590
+  },
+  {
+    "codLinea": 3,
+    "nombreLinea": "Puerta Blanca - El Palo",
+    "sentido": 2,
+    "nombreParada": "Vialia",
+    "lon": -4.431743,
+    "lat": 36.711057
+  },
+  {
+    "codLinea": 3,
+    "nombreLinea": "Puerta Blanca - El Palo",
+    "sentido": 2,
+    "nombreParada": "Puerta Blanca",
+    "lon": -4.448723,
+    "lat": 36.693254
+  }
+]
