@@ -189,7 +189,6 @@ class DatabaseConnection:
 
             if hasDate:
 
-        
                 return [
                     {
                         **d,
