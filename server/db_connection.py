@@ -189,7 +189,7 @@ class DatabaseConnection:
 
             if hasDate:
 
-            # Convertir documentos a lista y manejar correctamente el campo 'timestamp'
+        
                 return [
                     {
                         **d,

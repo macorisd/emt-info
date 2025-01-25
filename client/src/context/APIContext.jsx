@@ -3,8 +3,8 @@ import axios from "axios";
 
 const APIContext = createContext();
 
-const BASE_URL = import.meta.env.VITE_REACT_APP_BASE_URL || "http://localhost:8000/api";
-// const BASE_URL = "https://mi-mapa-server.vercel.app/api";
+// const BASE_URL = import.meta.env.VITE_REACT_APP_BASE_URL || "http://localhost:8000/api";
+const BASE_URL = "https://emt-info-zeta.vercel.app/api";
 
 export const APIProvider = ({ children }) => {
     const [loadCount, setLoadCount] = useState(0);
